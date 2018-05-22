@@ -65,6 +65,11 @@
 				<version>1.8.8</version>
 			</dependency>
 			<dependency>
+				<groupId>aspectj</groupId>
+				<artifactId>aspectjrt</artifactId>
+				<version>1.5.3</version>
+			</dependency>
+			<dependency>
 				<groupId>cglib</groupId>
 				<artifactId>cglib</artifactId>
 				<version>2.2.2</version>
